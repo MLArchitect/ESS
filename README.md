@@ -23,7 +23,7 @@ Data preparation: Cleaned and preprocessed categorical and numerical variables; 
 
 Feature encoding: Applied label encoding for categorical features to make them suitable for machine learning models.
 
-Handling imbalance: Used  Random oversampling  to balance the “happy” and “unhappy” classes.
+Handling imbalance: Used  SMOTE  to balance the “happy” and “unhappy” classes.
 
 Modeling: Built and compared Logistic Regression, Random Forest, LightGBM, and XGBoost classifiers to predict subjective well-being.
 
