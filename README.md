@@ -1,5 +1,5 @@
-# ESS
-Predicting Subjective Well-Being (Happiness) with Machine Learning: A Minority Class Detection Approach Using European Social Survey Data
+# Predicting Subjective Well-Being (Happiness) with Machine Learning
+A Minority Class Detection Approach Using European Social Survey Data
 
 Objective:
 This thesis aims to predict Subjective Well-Being (SWB), or happiness, using rich survey data and machine learning, with a specific focus on accurately detecting minority (unhappy) classes—similar in challenge to fraud detection use cases.
